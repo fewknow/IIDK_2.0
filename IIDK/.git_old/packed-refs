@@ -1,0 +1,31 @@
+# pack-refs with: peeled fully-peeled sorted 
+e96125f7915a08ab6ff2b979fd9094520377214a refs/remotes/origin/aws_vagrant
+90ea2545656c3d623e72e49bce1d3404fd61c8f0 refs/remotes/origin/demo
+26fd998b67a2a8021be1c1d13dd8ba8c8e2983e0 refs/remotes/origin/galaxy
+361493fbe6b1775e2277f679c3f5c74cc1e190e7 refs/remotes/origin/gmlp-consul
+81c5b6c42a00e66ae1a3e82d2b5d8b0ca04b8871 refs/remotes/origin/main
+296b80dcc0c915f35f5e0147505f883500962d5b refs/remotes/origin/packer-build
+fe556e6452cb05c5ed1ec7e8feb6a56a0e8ad3c6 refs/remotes/origin/tmobbs/packer-build-clone
+243de18cb3903e3d0398d041a5afe9c6751f713e refs/remotes/origin/tmobbs/vagrant-windows
+f99cbb15dc8edd102ca4b2dfd74f98aca65a3fb4 refs/tags/0.0.1
+^70a4c47a80cfa12f8b64ee6682e198948d302a0e
+c2bdb9c4879cac6029eeb515a80e77a8911b4e0c refs/tags/0.0.10
+^67e96e3d37577276203d493dbf35f9bbbb832949
+83115a20126d6e5a05c9df779e31984a7dee7e8b refs/tags/0.0.11
+^81c5b6c42a00e66ae1a3e82d2b5d8b0ca04b8871
+b430bf062babc56f47f13565e560f313e85a098f refs/tags/0.0.2
+^31b1f37075a31401b5a676afea9ae782b5b25599
+d7d4fc78c471551fb9e56ba2986b5e41841db601 refs/tags/0.0.3
+^43f47c3366c7e5da55b349e9818dc6517cd92db4
+10fea198c175f8ab77247f89b0c4126b05286a75 refs/tags/0.0.4
+^8b901139beb6a1ff3861e3a6a1650b496ba74f7b
+240eed14600d59a1b6144da14af9543abee1daed refs/tags/0.0.5
+^4229c39d233646c7612d93c01b2dfcdcd077acdb
+c6453159d2f064cb24dfeee7bb7704d64bbe2b7b refs/tags/0.0.6
+^657fe9018256bb676b92b823e334c537ea1302aa
+71056f18e18c5eeb4348a8de2eeb10f7524b26a5 refs/tags/0.0.7
+^0c160a30fde38b6239e88801558de708dd1e8ca4
+cac3e441b6c493d8c42998253b549df9f5fb53bd refs/tags/0.0.8
+^9792c52b9a05083d1c908fa8393177cf35c53cad
+a398c1afa958cb266ed2c918d4a011b0c006f10b refs/tags/0.0.9
+^fbd25b965d623ce01c6c0c7855099bb2e57afeb6

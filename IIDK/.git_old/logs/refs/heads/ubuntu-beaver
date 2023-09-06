@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 3fee1d010a3e8f85956a9edd40ca1442a5217d69 sam flint <sam.flint@digitalonus.com> 1643826388 -0500	branch: Created from HEAD
+3fee1d010a3e8f85956a9edd40ca1442a5217d69 1a64f9b75d05a25f70cddb678866d78f49ca485f sam flint <sam.flint@digitalonus.com> 1643826482 -0500	commit: update to pass name for base ami
+1a64f9b75d05a25f70cddb678866d78f49ca485f 2a006c12f839d73a2b976ef69f093e7ae0b06530 sam flint <sam.flint@digitalonus.com> 1643826912 -0500	commit: update variable name
+2a006c12f839d73a2b976ef69f093e7ae0b06530 185687de5d936c5fa61aa939eb1ba92b435da9bf sam flint <sam.flint@digitalonus.com> 1643827707 -0500	commit: update variable
+185687de5d936c5fa61aa939eb1ba92b435da9bf e0785f805bb020099f64ab0b040f44a0aac6aa3a sam flint <sam.flint@digitalonus.com> 1643827780 -0500	commit: update to take variable
+e0785f805bb020099f64ab0b040f44a0aac6aa3a fee0e5042dc4778ab5c8874d6bc536727d562c0e sam flint <sam.flint@digitalonus.com> 1643828002 -0500	commit: update t4g.nano
+fee0e5042dc4778ab5c8874d6bc536727d562c0e fc5f52cd15c097393d05f7d84ac0a9780d6438db sam flint <sam.flint@digitalonus.com> 1643828313 -0500	commit: fix bug

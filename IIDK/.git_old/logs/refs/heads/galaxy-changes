@@ -1,0 +1,33 @@
+0000000000000000000000000000000000000000 b9ed697b426d682ec813344bcff0bb864bec6bcd sam flint <sam.flint@digitalonus.com> 1643142002 -0500	branch: Created from HEAD
+b9ed697b426d682ec813344bcff0bb864bec6bcd 6b32b129ce84355a12e71bc0f605daea51494dc0 sam flint <sam.flint@digitalonus.com> 1643142014 -0500	commit: updating to use galaxy with iidk 2.0
+6b32b129ce84355a12e71bc0f605daea51494dc0 d26b1bfd0a623035b6295b5f9239e38890846e1f sam flint <sam.flint@digitalonus.com> 1643142072 -0500	commit: vagrantfile updates
+d26b1bfd0a623035b6295b5f9239e38890846e1f c9b147d33720c27e383b215816107ff01f0a9884 sam flint <sam.flint@digitalonus.com> 1643170321 -0500	commit: updated build to include galaxy along with Vagrant file
+c9b147d33720c27e383b215816107ff01f0a9884 efefc93880f048a46c6210e5f467d9b6a97b1bc1 sam flint <sam.flint@digitalonus.com> 1643170525 -0500	commit: testing full build
+efefc93880f048a46c6210e5f467d9b6a97b1bc1 a2386587ab1f06a3958992d73aedc1d7a13204ed sam flint <sam.flint@digitalonus.com> 1643170541 -0500	commit: testing full build
+a2386587ab1f06a3958992d73aedc1d7a13204ed b50e70795e5ee78853d72c6fbaa00c4b924fcc95 sam flint <sam.flint@digitalonus.com> 1643170874 -0500	commit: update path
+b50e70795e5ee78853d72c6fbaa00c4b924fcc95 f6425a3e75ca2f3ba39c1551d320ef4fc03e635d sam flint <sam.flint@digitalonus.com> 1643171176 -0500	commit: remvoe
+f6425a3e75ca2f3ba39c1551d320ef4fc03e635d 5a920388986265c20edbfc6f33ef59743e634797 sam flint <sam.flint@digitalonus.com> 1643171305 -0500	commit: moved ansible block our of local for galaxy
+5a920388986265c20edbfc6f33ef59743e634797 c08f2724270dc9cff0e3475ab79ef0cdaff647c0 sam flint <sam.flint@digitalonus.com> 1643171550 -0500	commit: add variable vpc {
+c08f2724270dc9cff0e3475ab79ef0cdaff647c0 e734b99aa9711c810d014bbea9b9ff3be87cb105 sam flint <sam.flint@digitalonus.com> 1643171811 -0500	commit: uypdate for ansible-local and galaxy
+e734b99aa9711c810d014bbea9b9ff3be87cb105 359e762377d7aa0d866d1c9a3e332e07398056d1 sam flint <sam.flint@digitalonus.com> 1643312117 -0500	commit: netrc
+359e762377d7aa0d866d1c9a3e332e07398056d1 3e8862f5b258bf72765aaf001fda4a19de4fccda sam flint <sam.flint@digitalonus.com> 1643312224 -0500	commit: update heading
+3e8862f5b258bf72765aaf001fda4a19de4fccda a37bd794f05983de9eb696a062d1329df0ab2914 sam flint <sam.flint@digitalonus.com> 1643312261 -0500	commit: update typo
+a37bd794f05983de9eb696a062d1329df0ab2914 73fbe1c9fcb5d0628afe8f2925808cfd6effc0fc sam flint <sam.flint@digitalonus.com> 1643314682 -0500	commit: update to use input variables for netrc
+73fbe1c9fcb5d0628afe8f2925808cfd6effc0fc a74ba82e51f85efb11e582bf1d6d399e0274f4c5 sam flint <sam.flint@digitalonus.com> 1643314689 -0500	commit: update to use input variables for netrc
+a74ba82e51f85efb11e582bf1d6d399e0274f4c5 6643c2e4d02a123857351bd528a8525240d8553a sam flint <sam.flint@digitalonus.com> 1643314914 -0500	commit: update script call
+6643c2e4d02a123857351bd528a8525240d8553a 9b21a82b47b757b2ee5ef14f0d687cd75a196721 sam flint <sam.flint@digitalonus.com> 1643315142 -0500	commit: update'
+9b21a82b47b757b2ee5ef14f0d687cd75a196721 443fda8083141cf19ef64d9a324a5bee2ed044b7 sam flint <sam.flint@digitalonus.com> 1643315404 -0500	commit: using env for packer
+443fda8083141cf19ef64d9a324a5bee2ed044b7 95299a65975cb4859f72da126e5220fc085034f7 sam flint <sam.flint@digitalonus.com> 1643315815 -0500	commit: update typo
+95299a65975cb4859f72da126e5220fc085034f7 87fd3aef7dff116b7baae80893987dc8944c003c sam flint <sam.flint@digitalonus.com> 1643316269 -0500	commit: update for inline with variables
+87fd3aef7dff116b7baae80893987dc8944c003c a97d9618178207e01c0a3a4121df1ca7d9232eaa sam flint <sam.flint@digitalonus.com> 1643316277 -0500	commit: update for inline with variables
+a97d9618178207e01c0a3a4121df1ca7d9232eaa 074c94394ff35ada8170fa61f1bfeed34b6e5a9c sam flint <sam.flint@digitalonus.com> 1643316365 -0500	commit: added another shell provisioner step
+074c94394ff35ada8170fa61f1bfeed34b6e5a9c 314cbd479508ad6d875ba446e45f180c03808ae7 sam flint <sam.flint@digitalonus.com> 1643318204 -0500	commit: updated
+314cbd479508ad6d875ba446e45f180c03808ae7 f75a7559b7651183c813667fb8755cacb736f46f sam flint <sam.flint@digitalonus.com> 1643318770 -0500	commit: update to do inline instead of script
+f75a7559b7651183c813667fb8755cacb736f46f ae2bf6020c58df48396c84c503a16d5f9b53424d sam flint <sam.flint@digitalonus.com> 1643324449 -0500	commit: update to correct src
+ae2bf6020c58df48396c84c503a16d5f9b53424d 61c94c992c698842e05f60f8e64bf09fdebe76a3 sam flint <sam.flint@digitalonus.com> 1643325410 -0500	commit: update path for roles
+61c94c992c698842e05f60f8e64bf09fdebe76a3 55160f36918bc04ac86b7f0f20470270ec79359a sam flint <sam.flint@digitalonus.com> 1643325602 -0500	commit: update to have in roles
+55160f36918bc04ac86b7f0f20470270ec79359a 0a586045eb1a548442e8874fc03cc3c6a5475d05 sam flint <sam.flint@digitalonus.com> 1643325656 -0500	commit: update role call from playbook
+0a586045eb1a548442e8874fc03cc3c6a5475d05 887cbb5d8c936890c535f9c124384810eb0aabcf sam flint <sam.flint@digitalonus.com> 1643326047 -0500	commit: change the ansible-galaxy install command
+887cbb5d8c936890c535f9c124384810eb0aabcf ec3d3375993550ca378dcb47dd26d9ecb315e6d6 sam flint <sam.flint@digitalonus.com> 1643326590 -0500	commit: update command
+ec3d3375993550ca378dcb47dd26d9ecb315e6d6 8e3adb39b6d8cf02e060d3e477802b207ae89890 sam flint <sam.flint@digitalonus.com> 1643822142 -0500	commit: realease notes
+8e3adb39b6d8cf02e060d3e477802b207ae89890 d4f21d665516a60b169d2014bfe5d81a2d36ce03 sam flint <sam.flint@digitalonus.com> 1643822228 -0500	commit: update release notes
